@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=karan96108&label=Profile%20views&color=0e75b6&style=flat" alt="karan96108" />
 </p>
 
-I’m a **B.Tech (CSE) 3rd-year** student and **Web Designer & Developer Intern at Softclique Technologies**.  
+I’m a **B.Tech (CSE) 4th-year** student and **Web Designer & Developer Intern at Softclique Technologies**.  
 I build **full-stack web apps** and **ML/GenAI projects** (Flask/OpenCV/CNNs) and love shipping clean, practical solutions.  
 I’m also a **Technical Member (GenAI Lead) at Google Developer Group** and actively contribute to community learning.
 
