@@ -1,8 +1,6 @@
 ## Hey there 👋, I'm [Karan Juneja](https://github.com/karan96108)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karan-juneja-47534318a/)
 
 ### Glad to see you here!
 <p align="left">
@@ -31,7 +29,7 @@ Since then I’ve been pushing commits, opening issues/PRs, creating gists, and 
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/YOUR_BMAC" target="_blank">
+<a href="https://www.buymeacoffee.com/karan96108" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
 </a>
 
@@ -57,7 +55,7 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png" alt="spring boot"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="mysql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="postgresql"></code>
