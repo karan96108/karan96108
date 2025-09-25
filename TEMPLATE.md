@@ -14,9 +14,9 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **7** years ago.
+Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
-Since then I pushed **3558**+ commits, opened **229**+ issues, submitted **592**+ pull requests, created **20**+ gists and contributed to **6**+ public repositories.
+Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
